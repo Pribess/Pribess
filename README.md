@@ -2,7 +2,7 @@
 
 - ASSEMBLY, C/C++, JS, JAVA
 
-- GRAPHICS, SYSTEM, WEB
+- GRAPHICS, SYSTEM, WEB, BLOCKCHAIN
 
 - MacBook Pro 13inch 2020 i5 10th generation
 
