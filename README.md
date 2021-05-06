@@ -10,4 +10,4 @@
 
 - Anne Pro 2 White Gaetron Red
 
-- Big Fan of TIS-100
+- A Big Fan of TIS-100
