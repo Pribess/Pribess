@@ -11,3 +11,10 @@
 - Anne Pro 2 White Gaetron Red
 
 - A Big Fan of TIS-100
+
+<hr/>
+
+### TODOLIST
+
+- Ceriumd Complete
+- Make an OS
