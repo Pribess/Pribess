@@ -19,4 +19,3 @@
 ### TODOLIST
 
 - Ceriumd Complete
-- Make an OS
