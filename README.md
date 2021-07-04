@@ -8,7 +8,7 @@
 
 - FreeBSD
 
-- Anne Pro 2 White Gaetron Red
+- Anne Pro 2 White Gaetron Red & leopold fc210tp brown
 
 - A Big Fan of TIS-100
 
