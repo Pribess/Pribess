@@ -1,6 +1,4 @@
-- Korean Student
-
-- ASSEMBLY, C/C++, JS, JAVA
+- 2006.12.26 Republic of Korea
 
 - GRAPHICS, SYSTEM, WEB, BLOCKCHAIN
 
