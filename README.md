@@ -4,7 +4,7 @@
 
 - MacBook Pro 13inch 2020 i5 10th generation
 
-- contact ig : zo_glad1 
+- Contact ig : zo_glad1 
 
 <hr/>
 
