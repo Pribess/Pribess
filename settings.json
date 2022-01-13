@@ -1,0 +1,14 @@
+{
+    "editor.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+    "editor.fontWeight": "bold",
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.enableBell": true,
+    "workbench.iconTheme": "vs-nomo-dark",
+    // "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "workbench.colorTheme": "Xcode Syntax Dark (Catalina)",
+    "C_Cpp.default.includePath": [
+        "/usr/local/include"
+    ],
+}
