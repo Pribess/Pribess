@@ -4,7 +4,7 @@
 
 - MacBook Pro 13inch 2020 i5 10th generation
 
-- Anne Pro 2 White Gaetron Red
+- contact ig : zo_glad1 
 
 <hr/>
 
