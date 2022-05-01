@@ -9,6 +9,7 @@ Plugin 'VundleVim/Vundle.vim'
 call vundle#end()
 filetype plugin indent on
 
+colorscheme xcode
 syntax enable
 
 set sts=4
