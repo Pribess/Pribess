@@ -1,7 +1,7 @@
 set background=dark
 
 hi clear
-let g:colors_name = 'xcodedark'
+let g:colors_name = 'xcode'
 
 let s:t_Co = exists('&t_Co') && !empty(&t_Co) && &t_Co > 1 ? &t_Co : 2
 
