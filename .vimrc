@@ -7,6 +7,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'ycm-core/YouCompleteMe'
+Plugin 'Raimondi/delimitMate'
 
 call vundle#end()
 filetype plugin indent on
@@ -16,9 +17,6 @@ syntax enable
 
 set sts=4
 set nu
-set cindent
-set autoindent
-set smartindent
 set ruler
 set title  
 set ts=4
@@ -31,7 +29,10 @@ let g:ycm_python_interpreter_path = '/usr/local/bin/python3'
 let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
 
 let g:ycm_semantic_triggers = {
-  \   'cpp': [ 're!.' ],
+  \   'c': [ 're!.' ],
   \   'c++': [ 're!.' ],
   \   'python': [ 're!.']
   \ }
+
+
+let delimitMate_expand_cr=1
