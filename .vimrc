@@ -1,15 +1,12 @@
 set nocompatible
 filetype off
 
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+call plug#begin()
 
-Plugin 'VundleVim/Vundle.vim'
+Plug 'ycm-core/YouCompleteMe'
+Plug 'Raimondi/delimitMate'
 
-Plugin 'ycm-core/YouCompleteMe'
-Plugin 'Raimondi/delimitMate'
-
-call vundle#end()
+call plug#end()
 filetype plugin indent on
 
 colorscheme xcode
