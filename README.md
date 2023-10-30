@@ -1,3 +1,3 @@
-## Pribess :
+## Pribess
 
 discord: pribess
