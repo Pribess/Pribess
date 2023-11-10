@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:openbox_menu xmlns="http://openbox.org/" xmlns:ns0="http://openbox.org/3.4/menu">
+  <ns0:menu id="system-menu" label="System">
+    <item label="obconf">
+      <action name="Execute">
+        <execute>obconf</execute>
+      </action>
+    </item>
+    <item label="obmenu">
+      <action name="Execute">
+        <execute>gksu obmenu</execute>
+      </action>
+    </item>
+    <ns0:separator />
+    <ns0:item label="Reconfigure Openbox">
+      <ns0:action name="Reconfigure" />
+    </ns0:item>
+  </ns0:menu>
+  <ns0:menu id="root-menu" label="Openbox 3">
+    <ns0:separator label="Applications" />
+    <item label="xterm">
+      <action name="Execute">
+        <execute>xterm</execute>
+      </action>
+    </item>
+    <ns0:separator label="System" />
+    <ns0:menu id="system-menu" />
+    <ns0:separator />
+    <ns0:item label="Log Out">
+      <ns0:action name="Exit">
+        <ns0:prompt>yes</ns0:prompt>
+      </ns0:action>
+    </ns0:item>
+  </ns0:menu>
+</ns0:openbox_menu>
