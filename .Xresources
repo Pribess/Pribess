@@ -1,0 +1,7 @@
+XTerm*faceName: Jetbrains Mono
+XTerm*faceSize: 11
+#XTerm*Maximized: true
+XTerm*BorderWidth: 1
+XTerm*BorderColor: white
+XTerm*Background: black
+XTerm*Foreground: white
