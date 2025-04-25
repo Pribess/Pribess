@@ -4,5 +4,4 @@
 
 discord: pribess
 
-- Zig Korea
-	[https://zig-kr.org](https://zig-kr.org)
+- [Zig Korea](https://zig-kr.org)
